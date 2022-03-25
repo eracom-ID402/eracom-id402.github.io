@@ -17,4 +17,4 @@
 
 ---
 
-📝 [Editer cette page](https://github.com/eracom-ID401/eracom-ID401.github.io/edit/main/README.md)
+📝 [Editer cette page](https://github.com/eracom-ID402/eracom-id402.github.io/edit/main/README.md)
