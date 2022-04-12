@@ -2,18 +2,18 @@
 
 ## Supports de cours
 
-- [Développement d’interfaces 2 – CSS](https://id402.ch/cours-dev2-css/)
+- 💻 [Développement d’interfaces 2 – CSS](https://id402.ch/cours-dev2-css/)
 
 ## Liens utiles
 
-- [Github ID402](https://github.com/eracom-id402)
-- [Podsie](https://student.podsie.org/)
-- [Cours-Web.ch](https://cours-web.ch/)
+- ♎️ [Github ID402](https://github.com/eracom-id402)
+- 💹 [Podsie](https://student.podsie.org/)
+- ✴️ [Cours-Web.ch](https://cours-web.ch/)
 
 ## Liens école
 
-- [Infos pour élèves filière ID](https://eracom.ch/informations-eleves-id/)
-- [Plan de formation](https://code.eracom-pedagogique.ch/formation-imd-2020/cursus-dual/)
+- 📜 [Infos pour élèves filière ID](https://eracom.ch/informations-eleves-id/)
+- 📊 [Plan de formation](https://code.eracom-pedagogique.ch/formation-imd/cursus-dual/)
 
 ---
 
