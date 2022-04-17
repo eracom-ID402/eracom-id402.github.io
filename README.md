@@ -7,7 +7,7 @@
 ## Liens utiles
 
 - ♎️ [Github ID402](https://github.com/eracom-id402)
-- 💹 [Podsie](https://student.podsie.org/)
+- 📈 [Podsie](https://student.podsie.org/)
 - ✴️ [Cours-Web.ch](https://cours-web.ch/)
 
 ## Liens école
