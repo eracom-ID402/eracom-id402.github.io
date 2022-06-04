@@ -9,6 +9,7 @@
 - ♎️ [Github ID402](https://github.com/eracom-id402)
 - 📈 [Podsie](https://student.podsie.org/)
 - ✴️ [Cours-Web.ch](https://cours-web.ch/)
+- [Fontes Typo IMD](https://code.eracom-pedagogique.ch/fontes-imd/)
 
 ## Liens école
 
