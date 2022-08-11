@@ -21,6 +21,5 @@
 📝 [Editer cette page](https://github.com/eracom-ID402/eracom-id402.github.io/edit/main/README.md)
 
 <style>
-  .container-lg h1:first‑of‑type { display:none }
-  .markdown-body>*:first-child { display:none }
+  .markdown-body>h1:first-child { display:none }
 </style>
