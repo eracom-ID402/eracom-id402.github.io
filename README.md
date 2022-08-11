@@ -7,7 +7,6 @@
 ## Liens utiles
 
 - ♎️ [Github ID402](https://github.com/eracom-id402)
-- 📈 [Podsie](https://student.podsie.org/)
 - ✴️ [Cours-Web.ch](https://cours-web.ch/)
 - [Fontes Typo IMD](https://code.eracom-pedagogique.ch/fontes-imd/)
 
@@ -21,5 +20,6 @@
 📝 [Editer cette page](https://github.com/eracom-ID402/eracom-id402.github.io/edit/main/README.md)
 
 <style>
-  .markdown-body>h1:first-child { display:none }
+  .markdown-body h1:first-child { display:none }
+  .markdown-body h1 { margin-top: 0}
 </style>
