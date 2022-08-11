@@ -23,5 +23,4 @@
 <style>
   .container-lg h1:first‑of‑type { display:none }
   .markdown-body>*:first-child { display:none }
-  body { background: gray}
 </style>
