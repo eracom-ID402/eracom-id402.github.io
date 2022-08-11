@@ -23,4 +23,5 @@
 <style>
 .container-lg h1:first‑of‑type {
   display:none }
+  body { background: gray}
 </style>
