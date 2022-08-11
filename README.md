@@ -2,7 +2,7 @@
 
 ## Supports de cours
 
-- 💻 [Développement d’interfaces 2 – CSS](https://id402.ch/cours-dev2-css/)
+- 💻 [Développement d’interfaces 2 – CSS](https://id402.ch/cours-dev2-css/) (Archive)
 
 ## Liens utiles
 
@@ -13,8 +13,8 @@
 
 ## Liens école
 
-- 📜 [Infos pour élèves filière ID](https://eracom.ch/informations-eleves-id/)
 - 📊 [Plan de formation](https://code.eracom-pedagogique.ch/formation-imd/cursus-dual/)
+- 📜 [Infos pour élèves filière ID](https://eracom.ch/informations-eleves-id/)
 
 ---
 
