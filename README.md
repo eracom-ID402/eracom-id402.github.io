@@ -2,7 +2,7 @@
 
 ## Supports de cours
 
-- 💻 [Développement d’interfaces 2 – CSS](https://id402.ch/cours-dev2-css/) (Archive)
+- 💻 [Développement d’interfaces 2 – CSS](https://id402.ch/cours-dev2-css/) (archive S4 - 2022)
 - 🎨 [Design d'interfaces 4](https://docs.google.com/presentation/d/16MGLJ83Hx8-zmewiK8i1DfOeooALl4Ezpdbb1GvIBfo/edit?usp=sharing)
 
 ## Liens utiles
